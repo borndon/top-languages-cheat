@@ -3,7 +3,7 @@ name: Bug
 about: Create a bug-report to help us address errors in the repo.
 title: ''
 labels: bug
-assignees: ''
+assignees: 'chryzcodez'
 
 ---
 
