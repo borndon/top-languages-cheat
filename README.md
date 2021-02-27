@@ -8,7 +8,7 @@ In order for us not to ignore your effort, please check well not to make a dupli
 ## Content
 <details>
 <summary>
-<strong> <a href="https://github.com/chryz-hub/py-tutorials/tree/master/python/introduction">Regular Expression Cheats</a></strong>
+<strong> <a href="https://github.com/chryz-hub/top-languages-cheat/tree/master/the-cheat-sheet/regular-expression-cheat">Regular Expression Cheats</a></strong>
 </summary>
     <ul>
        <li> <a href ="https://github.com/chryz-hub/top-languages-cheat/blob/master/the-cheat-sheet/regular-expression-cheat/intro-to-regex.md">Introduction to Regex</a></li>
