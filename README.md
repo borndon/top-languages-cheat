@@ -5,6 +5,16 @@ Feel free to create an [issue](https://github.com/chryz-hub/py-tutorials/issues)
 first and our [code of conduct](https://github.com/chryz-hub/py-tutorials/blob/master/CODE_OF_CONDUCT.md), before making new commits or opening a PR, we appreciate it!
 In order for us not to ignore your effort, please check well not to make a duplicate of a PR(contribution)/ issue!
 
+## Content
+<details>
+<summary>
+<strong> <a href="https://github.com/chryz-hub/py-tutorials/tree/master/python/introduction">Introduction</a></strong>
+</summary>
+    <ul>
+       <li> <a href ="https://github.com/chryz-hub/top-languages-cheat/blob/master/the-cheat-sheet/regular-expression-cheat/intro-to-regex.md">Introduction to Regex</a></li>
+   </ul>
+</details>
+
 
 
 ## Find us on
