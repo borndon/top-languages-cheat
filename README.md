@@ -12,10 +12,9 @@ In order for us not to ignore your effort, please check well not to make a dupli
 </summary>
     <ul>
        <li> <a href ="https://github.com/chryz-hub/top-languages-cheat/blob/master/the-cheat-sheet/regular-expression-cheat/intro-to-regex.md">Introduction to Regex</a></li>
+       <li> <a href ="https://github.com/chryz-hub/top-languages-cheat/blob/master/the-cheat-sheet/regular-expression-cheat/regex-cheats.md">Regex Cheats</a></li>
    </ul>
 </details>
-
-
 
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
