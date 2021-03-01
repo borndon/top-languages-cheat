@@ -16,7 +16,9 @@ For more detail on regular expressions, check:
 
 ## Functions of Regex
 - It is used to do web-scrapping
-- It is mainly use for finding/searching or parsing through files and extracting data//
+- It is mainly use for finding/searching or parsing through files and extracting data
 
 ### Who invented Regex?
- - <strong><a href="https://www.britannica.com/biography/Stephen-Cole-Kleene#:~:text=Stephen%20Cole%20Kleene%2C%20(born%20Jan,foundations%20of%20theoretical%20computer%20science.">Stephen Kleene</a></strong>
+<a href="https://www.britannica.com/biography/Stephen-Cole-Kleene#:~:text=Stephen%20Cole%20Kleene%2C%20(born%20Jan,foundations%20of%20theoretical%20computer%20science." target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Kleene.jpg" alt="chryz_codez" height="200" width="150" /></a> 
+
+<strong><a href="https://www.britannica.com/biography/Stephen-Cole-Kleene#:~:text=Stephen%20Cole%20Kleene%2C%20(born%20Jan,foundations%20of%20theoretical%20computer%20science.">Stephen Cole Kleene</a></strong></br>
